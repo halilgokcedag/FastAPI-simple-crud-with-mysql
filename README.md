@@ -21,12 +21,12 @@ Install and start mysql server. Create a database with the name of fastapiDB.
 
 ### Deployment
 
-1. Clone the repo and go to the deployment directory.
+1. Clone the repo and go to the deployment FastAPI-simple-crud-with-mysql.
 
 2. Run the following commnad
 ```
 uvicorn sql_app.main:app --reload
 ```
 
-3. You can open your browser at http://127.0.0.1:8000/docs
+3. You can open your browser at http://127.0.0.1:8000/docs .
 You will be able to interact with your FastAPI application, creating, reading and deleting data from a SQLite database
