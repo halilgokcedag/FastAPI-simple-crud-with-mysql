@@ -21,7 +21,7 @@ Install and start mysql server. Create a database with the name of fastapiDB.
 
 ### Deployment
 
-1. Clone the repo and go to the deployment FastAPI-simple-crud-with-mysql.
+1. Clone the repo and go to the directory FastAPI-simple-crud-with-mysql.
 
 2. Run the following commnad
 ```
